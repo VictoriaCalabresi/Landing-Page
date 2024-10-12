@@ -15,6 +15,3 @@ O formulário desta landing page está integrado a um backend simples utilizando
 ## Tecnologias Utilizadas
 - HTML5
 - CSS3
-
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para melhorias.
