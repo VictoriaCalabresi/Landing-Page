@@ -1,7 +1,5 @@
-# Landing-Page
-Landing page development for an architectural project
-
 # Desafio de Desenvolvimento HTML e CSS - Pós-graduação em Arquitetura de Soluções
+Landing page development for an architectural project
 
 ## Descrição
 Este repositório contém um projeto de desenvolvimento de uma landing page utilizando **HTML** e **CSS**. O objetivo é criar uma página bem estruturada como parte de um desafio da pós-graduação em Arquitetura de Soluções. A página foi construída considerando boas práticas de desenvolvimento web, priorizando a organização do código e o design amigável.
